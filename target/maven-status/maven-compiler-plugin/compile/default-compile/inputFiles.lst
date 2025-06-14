@@ -1,0 +1,7 @@
+/home/ubuntu/weather-web-app/src/main/java/com/weather/webapp/model/Current.java
+/home/ubuntu/weather-web-app/src/main/java/com/weather/webapp/service/WeatherService.java
+/home/ubuntu/weather-web-app/src/main/java/com/weather/webapp/model/WeatherResponse.java
+/home/ubuntu/weather-web-app/src/main/java/com/weather/webapp/config/WebConfig.java
+/home/ubuntu/weather-web-app/src/main/java/com/weather/webapp/model/CurrentUnits.java
+/home/ubuntu/weather-web-app/src/main/java/com/weather/webapp/controller/WeatherController.java
+/home/ubuntu/weather-web-app/src/main/java/com/weather/webapp/WeatherWebApplication.java

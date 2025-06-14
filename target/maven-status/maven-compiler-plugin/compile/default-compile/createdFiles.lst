@@ -1,0 +1,7 @@
+com/weather/webapp/WeatherWebApplication.class
+com/weather/webapp/config/WebConfig.class
+com/weather/webapp/model/WeatherResponse.class
+com/weather/webapp/controller/WeatherController.class
+com/weather/webapp/service/WeatherService.class
+com/weather/webapp/model/CurrentUnits.class
+com/weather/webapp/model/Current.class

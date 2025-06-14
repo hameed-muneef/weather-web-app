@@ -178,9 +178,5 @@ java -jar target/weather-web-app-1.0.0.jar
 
 This project is open source and available under the MIT License.
 
-## Credits
 
-- Weather data provided by [Open-Meteo API](https://open-meteo.com/)
-- UI components from [Bootstrap](https://getbootstrap.com/)
-- Icons from [Font Awesome](https://fontawesome.com/)
 

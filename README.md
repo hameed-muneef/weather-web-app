@@ -49,6 +49,10 @@ src/
 │       │   └── style.css                     # Additional CSS styles
 │       └── application.properties            # Spring Boot configuration
 └── pom.xml                                   # Maven dependencies and build configuration
+|
+|__ Dockerfile
+|
+|__ JenkinsFile
 ```
 
 ## Prerequisites

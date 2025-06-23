@@ -4,7 +4,7 @@ pipeline {
         maven 'maven-3.2.5'
     }
 	environment {
-	    AWS_REGION = 'eu-west-3'
+	    
 	    ECR_REGISTRY = '603742353765.dkr.ecr.eu-west-3.amazonaws.com'
 	    DOCKER_REPO = '603742353765.dkr.ecr.eu-west-3.amazonaws.com/dev/ci-repo'
         IMAGE_TAG = "${BUILD_NUMBER}"
